@@ -1,0 +1,11 @@
+form{
+  margin: 0 auto;
+width:580px;
+}
+.btn{
+  display: flex;
+  margin: 0 auto;
+  padding: 5px 25px 5px 25px;
+  font-weight: bold;
+  border-radius: 15px
+}

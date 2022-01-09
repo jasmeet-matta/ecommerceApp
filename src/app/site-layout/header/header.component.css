@@ -1,0 +1,26 @@
+div,.nav-pills{
+  display: inline-block;
+}
+h5,ul{
+  margin:0.5rem;
+}
+.first{
+  display: inline-block;
+  background-color: azure;
+}
+img{
+    width: 80%;
+    margin-left: 2rem;
+}
+
+.login{
+  margin-right: -12px
+}
+nav{
+  background-color: #F3F3F3 !important;
+}
+
+
+.list-group-cat{
+  margin: 0 auto;
+}

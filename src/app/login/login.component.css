@@ -1,0 +1,37 @@
+.card{
+    top: 30px;
+    border: none;
+    width: 500px;
+    padding: 40px;
+    /* position: absolute;  */
+    /* top: 50%;  */
+    left: 55%;
+    /* transform: translate(-50%,50%); */
+    background: hsla(205,46%,30%,1);
+    background: linear-gradient(90deg,#F3F3F3,#3e3e3e);
+
+}
+
+.card label,
+h6{
+    color: #fff;
+}
+h1{
+    color: #fff;
+}
+img{
+  width:80px;
+  margin-left:10px;
+  margin-bottom: 5px;
+}
+h2{
+  display: inline-block;
+}
+.welcome{
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+}
+.welcome-text{
+  color:#000;
+}

@@ -1,0 +1,26 @@
+<!-- Navigation-->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="home"><img src="https://assets.abfrlcdn.com/img/app/brands/pe/pe_logo.png" alt=""></a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span
+      class="navbar-toggler-icon"></span></button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
+      <li class="nav-item"><strong><a class="nav-link active" aria-current="page" href="home">HOME</a></strong></li>
+      <li class="nav-item"><strong><a class="nav-link" href="products">PRODUCTS</a></strong></li>
+    </ul>
+    <form class="d-flex px-4">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
+        <li class="nav-item login"><strong><a class="nav-link active" aria-current="page" href="login">LOGIN</a></strong></li>
+        <li class="nav-item"><strong><a class="nav-link" href="signup">/ SIGNUP</a></strong></li>
+      </ul>
+    </form>
+  </div>
+</nav>
+
+<!-- <div class="" *ngFor="let categories of categoryList">
+  <h5>🚶{{categories.categoryName}}</h5>
+</div> -->
+<a href="products" class="list-group-item first">View all products</a>
+<div class="list-group-cat" *ngFor="let catg of categoryList">
+  <a href="products/category/{{catg.id}}" class="list-group-item">{{catg.categoryName}}</a>
+</div>

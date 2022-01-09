@@ -1,0 +1,138 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Men Charcoal Full Sleeves Formal Shirt",
+      "categoryId": 3,
+      "description": "Let your style do the talking in this Charcoal print formal shirt from peter england formals by peter england.",
+      "price": 1999,
+      "is_available": true,
+      "productImg": "https://peterengland.imgix.net/img/app/product/6/664495-6813953.jpg?auto=format,compress&w=302.75",
+      "rating": 5,
+      "review": 120,
+      "vendor_name": "abc shop",
+      "warranty": 1
+    },
+    {
+      "id": 2,
+      "productName": "Men Ocean Blue Full Sleeves Casual Shirt",
+      "categoryId": 2,
+      "description": "Let your style do the talking in this blue print casual shirt from peter england casuals by peter england.",
+      "price": 1890,
+      "is_available": true,
+      "productImg": "https://peterengland.imgix.net/img/app/product/6/663695-6801589.jpg?auto=format&w=302.75",
+      "rating": 2,
+      "review": 120,
+      "vendor_name": "abc shop",
+      "warranty": 1
+    },
+    {
+      "id": 3,
+      "productName": "Men Brown Full Sleeves Casual Shirt",
+      "categoryId": 1,
+      "description": "Let your style do the talking in this brown print casual shirt from peter england casuals by peter england.",
+      "price": 2499,
+      "is_available": true,
+      "productImg": "https://peterengland.imgix.net/img/app/product/6/664447-6812775.jpg?auto=format,compress&w=302.75",
+      "rating": 2,
+      "review": 120,
+      "vendor_name": "abc shop",
+      "warranty": 1
+    },
+    {
+      "id": 4,
+      "productName": "Men Purple Full Sleeves Formal Shirt",
+      "categoryId": 1,
+      "description": "Let your style do the talking in this amazing purple print formal shirt from peter england formals by peter england.",
+      "price": 1799,
+      "is_available": true,
+      "productImg": "https://peterengland.imgix.net/img/app/product/6/663391-6796184.jpg?auto=format,compress&w=302.75",
+      "rating": 3,
+      "review": 120,
+      "vendor_name": "abc shop",
+      "warranty": 1
+    },
+    {
+      "id": 5,
+      "productName": "Men Grey Sunglasses",
+      "categoryId": 3,
+      "description": "Make a head-turning statement when you don these wayfarer style sunglasses from Peter England. Not only are the lens UV protected and polarized, the frame is light in weight and promises to keep you comfy and chic.",
+      "price": 900,
+      "is_available": true,
+      "productImg": "https://peterengland.imgix.net/img/app/product/2/263024-5650133.jpg?auto=format&w=302.75",
+      "rating": 5,
+      "review": 190,
+      "vendor_name": "abcd shop",
+      "warranty": 1
+    },
+    {
+      "id": 6,
+      "productName": "Men Red Tie",
+      "categoryId": 3,
+      "description": "This red patterned tie from Peter England will accentuate your style quotient at any formal event.",
+      "price": 599,
+      "is_available": true,
+      "productImg": "https://peterengland.imgix.net/img/app/product/4/434232-2781297.jpg?auto=format,compress&w=302.75",
+      "rating": 5,
+      "review": 190,
+      "vendor_name": "abcd shop",
+      "warranty": 1
+    },
+    {
+      "id": 7,
+      "productName": "Men Brown Loafers",
+      "categoryId": 3,
+      "description": "Comfortable and stylish, these brown loafers from Peter England by Peter England ensures a smart add-on to your outfit.",
+      "price": 1499,
+      "is_available": true,
+      "productImg": "https://peterengland.imgix.net/img/app/product/3/342249-1652593.jpg?auto=format&w=302.75",
+      "rating": 5,
+      "review": 190,
+      "vendor_name": "abcd shop",
+      "warranty": 1
+    },
+    {
+      "id": 8,
+      "productName": "Men Navy Flip Flops",
+      "categoryId": 2,
+      "description": "Add a spunky edge to your relaxed style with these navy Flip-Flops from peter england.",
+      "price": 1900,
+      "is_available": true,
+      "productImg": "https://peterengland.imgix.net/img/app/product/6/662604-6781649.jpg?auto=format&w=302.75",
+      "rating": 3,
+      "review": 190,
+      "vendor_name": "abcd shop",
+      "warranty": 1
+    },
+    {
+      "id": 11,
+      "categoryId": "3",
+      "productName": "Men Brown Reversible Belt",
+      "description": "This brown belt from Peter England will lend a perfect finish to your ensemble.",
+      "rating": "3",
+      "price": "1199",
+      "productImg": "https://peterengland.imgix.net/img/app/product/6/620267-5958594.jpg?auto=format&w=302.75",
+      "isAvailable": 1,
+      "color": "brown",
+      "reviews": "3"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Formals"
+    },
+    {
+      "id": 2,
+      "categoryName": "Casuals"
+    },
+    {
+      "id": 3,
+      "categoryName": "Accessories"
+    },
+    {
+      "id": 4,
+      "categoryName": "Footwear"
+    }
+  ]
+}

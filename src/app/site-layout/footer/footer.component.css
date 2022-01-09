@@ -1,0 +1,19 @@
+/* footer{
+  background: rgb(70,70,70);
+  background: linear-gradient(287deg, rgba(70,70,70,1) 30%, rgba(209,209,209,1) 100%);
+} */
+#footer{
+  background-color:#F3F3F3;
+  text-align: center;
+  padding: 5% 5% 3%;
+}
+
+.footer-p{
+  font-size:1rem;
+  color: #005336;
+  font-weight: bold;
+}
+.social-icons{
+  margin: 0 10px 25px;
+  color: #C8252C;
+}

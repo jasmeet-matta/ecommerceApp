@@ -1,0 +1,28 @@
+
+.carousel-item {
+  height: 600px;
+}
+
+.item img {
+  background-position:bottom;
+}
+
+iframe{
+  margin-right: 35px;
+}
+.videos,.maps,.style-text{
+  display: flex;
+  justify-content: center;
+}
+.head{
+  color:#08233E;
+  text-align: center;
+  font-weight: bold;
+}
+.style-text{
+  width: 600px;
+  text-align: center;
+  margin: 0 auto;
+  color: #A69999;
+  font-size: 1rem;
+}
