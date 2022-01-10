@@ -134,5 +134,28 @@
       "id": 4,
       "categoryName": "Footwear"
     }
-  ]
+  ],
+  "signupUsers": [
+  {
+    "fullname": "Jasmeet",
+    "email": "jasmeet2@abcd.com",
+    "password": "qwerty123",
+    "mobile": 91128282323,
+    "id": 1
+  },
+  {
+    "fullname": "a",
+    "email": "22",
+    "password": "ss",
+    "mobile": 12,
+    "id": 2
+  },
+  {
+    "fullname": "Jasmeet Matta",
+    "email": "jasmeet2@gmail.com",
+    "password": "abcd12",
+    "mobile": 9873549473,
+    "id": 3
+  }
+]
 }

@@ -8,6 +8,8 @@ import { ViewProductByCategoryComponent} from './view-product-by-category/view-p
 import { ViewProductByDateComponent} from './view-product-by-date/view-product-by-date.component';
 import { DeleteProductComponent} from './delete-product/delete-product.component';
 import { UpdateProductComponent} from './update-product/update-product.component';
+import { SignupComponent } from './signup/signup.component';
+import { LoginComponent } from './login/login.component';
 
 
 
@@ -22,6 +24,8 @@ const routes: Routes = [
   { path: 'delete-product', component:  DeleteProductComponent},
   { path: 'view-product/:id', component: ViewProductComponent },
   { path: 'update-product/:id', component:  UpdateProductComponent},
+  { path: 'signupPage', component:  SignupComponent},
+  { path: 'loginPage', component:  LoginComponent},
 
 ];
 
