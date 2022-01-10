@@ -34,4 +34,8 @@ export class SignupComponent implements OnInit {
     })
   }
 
+//   onSubmit(contactForm) {
+//   console.log(contactForm.value);
+// }
+
 }
