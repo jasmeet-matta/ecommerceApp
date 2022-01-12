@@ -47,6 +47,7 @@ export class UpdateProductComponent implements OnInit {
      console.log(form);
      this.productsService.updateProduct(this.productId, updateProduct).subscribe(data=>{
        console.log(data)
+       alert("Product details updated!")
      });
 
 

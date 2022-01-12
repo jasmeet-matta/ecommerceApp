@@ -33,6 +33,7 @@ export class AddProductComponent implements OnInit {
 
      this.productService.createProduct(newProduct).subscribe(data => {
        console.log(data);
+       alert("New Product Added Successfully!")
      });
    }
 

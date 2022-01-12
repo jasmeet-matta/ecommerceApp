@@ -28,7 +28,7 @@ export class SignupComponent implements OnInit {
     .subscribe(res=>{
       alert("signup successfull");
       this.signupForm.reset();
-      this.router.navigate(['login']);
+      this.router.navigate(['loginPage']);
     },err=>{
       alert("something went wrong")
     })

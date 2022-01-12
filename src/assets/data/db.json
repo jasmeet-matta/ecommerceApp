@@ -66,17 +66,14 @@
       "warranty": 1
     },
     {
-      "id": 6,
-      "productName": "Men Red Tie",
       "categoryId": 3,
+      "productName": "Men Red Tie",
       "description": "This red patterned tie from Peter England will accentuate your style quotient at any formal event.",
+      "rating": "",
       "price": 599,
-      "is_available": true,
-      "productImg": "https://peterengland.imgix.net/img/app/product/4/434232-2781297.jpg?auto=format,compress&w=302.75",
-      "rating": 5,
-      "review": 190,
-      "vendor_name": "abcd shop",
-      "warranty": 1
+      "productImg": "https://peterengland.imgix.net/img/app/product/4/434403-2784955.jpg?auto=format&w=302.75",
+      "isAvailable": 1,
+      "id": 6
     },
     {
       "id": 7,
@@ -105,16 +102,15 @@
       "warranty": 1
     },
     {
-      "id": 11,
       "categoryId": "3",
       "productName": "Men Brown Reversible Belt",
       "description": "This brown belt from Peter England will lend a perfect finish to your ensemble.",
-      "rating": "3",
+      "rating": "",
       "price": "1199",
-      "productImg": "https://peterengland.imgix.net/img/app/product/6/620267-5958594.jpg?auto=format&w=302.75",
+      "productImg": "https://peterengland.imgix.net/img/app/product/4/448074-2976346.jpg?auto=format&w=302.75",
       "isAvailable": 1,
       "color": "brown",
-      "reviews": "3"
+      "id": 11
     }
   ],
   "categories": [
@@ -136,19 +132,26 @@
     }
   ],
   "signupUsers": [
-  {
-    "fullname": "Jasmeet",
-    "email": "jasmeet2@abcd.com",
-    "password": "qwerty123",
-    "mobile": 91128282323,
-    "id": 1
-  },
-  {
-    "fullname": "Jasmeet Matta",
-    "email": "jasmeet2@gmail.com",
-    "password": "abcd12",
-    "mobile": 9873549473,
-    "id": 3
-  }
-]
+    {
+      "fullname": "Jasmeet",
+      "email": "jasmeet2@abcd.com",
+      "password": "qwerty123",
+      "mobile": 91128282323,
+      "id": 1
+    },
+    {
+      "fullname": "Jasmeet Matta",
+      "email": "jasmeet2@gmail.com",
+      "password": "abcd12",
+      "mobile": 9873549473,
+      "id": 3
+    },
+    {
+      "fullname": "John Doe",
+      "email": "johndoe@gmail.com",
+      "password": "john123#",
+      "mobile": 9234585356,
+      "id": 4
+    }
+  ]
 }
