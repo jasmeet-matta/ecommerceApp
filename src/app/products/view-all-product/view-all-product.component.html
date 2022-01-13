@@ -14,7 +14,7 @@
 
       <div class="col mb-5" *ngFor="let products of productList">
         <div class="card h-100">
-          <img class="card-img-top" src="{{products.productImg}}" alt="..." />
+          <img class="card-img-top" src="{{products.productImg}}" alt="..." routerLink="view-product/{{products.id}}">
           <div class="card-body p-4">
             <div class="text-center">
               <h5 class=""><a routerLink="view-product/{{products.id}}">{{products.productName}}</a></h5>

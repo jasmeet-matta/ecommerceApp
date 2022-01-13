@@ -24,4 +24,9 @@ export class ViewProductComponent implements OnInit {
   });
   }
 
+  myClickFunction(event:any) {
+    alert("Product Bought");
+    console.log(event);
+ }
+
 }

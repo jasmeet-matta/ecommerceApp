@@ -1,17 +1,14 @@
 {
   "products": [
     {
-      "id": 1,
-      "productName": "Men Charcoal Full Sleeves Formal Shirt",
       "categoryId": 3,
+      "productName": "Men Charcoal Full Sleeves Formal Shirt",
       "description": "Let your style do the talking in this Charcoal print formal shirt from peter england formals by peter england.",
-      "price": 1999,
-      "is_available": true,
-      "productImg": "https://peterengland.imgix.net/img/app/product/6/664495-6813953.jpg?auto=format,compress&w=302.75",
-      "rating": 5,
-      "review": 120,
-      "vendor_name": "abc shop",
-      "warranty": 1
+      "rating": "4",
+      "price": "2500",
+      "productImg": "https://peterengland.imgix.net/img/app/product/6/665674-6831526.jpg?auto=format&w=302.75",
+      "isAvailable": 1,
+      "id": 1
     },
     {
       "id": 2,
@@ -111,6 +108,17 @@
       "isAvailable": 1,
       "color": "brown",
       "id": 11
+    },
+    {
+      "categoryId": "",
+      "productName": "Men Yellow Full Sleeves Casual Shirt",
+      "description": "Let your style do the talking in this yellow solid casual shirt from peter england jeans by peter england",
+      "rating": "",
+      "price": "2499",
+      "productImg": "https://peterengland.imgix.net/img/app/product/6/664923-6822970.jpg?auto=format&w=302.75",
+      "isAvailable": 1,
+      "color": "",
+      "id": 12
     }
   ],
   "categories": [
